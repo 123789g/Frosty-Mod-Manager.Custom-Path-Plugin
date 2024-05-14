@@ -9,7 +9,7 @@ Change the path in quotes to whatever path your game exe is located.
 Worst part. If you don't develop on C# or C++ you'll need to grab .NET Desktop Dev & Desktop Dev with C++ from the Visual Studio Installer. You'll also need a Windows SDK, I think it's 10.0.22621.0. If you're missing anything, trust me, the build log will tell you. If the build log at any point says "Missing FrostySDK.DLL from bin/debug/whatever" just grab the fully compiled release, and click and drag those dlls where the builder is complaining. 
 
 ## Build Pt. 2
-Just download the WHOLE Frosty [Toolsuite](https://github.com/CadeEvs/FrostyToolsuite/tree/1.0.6.3). Add my plugin as an Existing Project. File > Add > Add Existing
+Just download the WHOLE Frosty [Toolsuite](https://github.com/CadeEvs/FrostyToolsuite/tree/1.0.6.3) ZIP. Open it's sln file in VS Community. Add my plugin as an Existing Project. File > Add > Add Existing
 When building, do so by right-clicking my plugin and clicking build. Do not build the whole project. Do not RE-BUILD. Both options have done horrible, terrible things to me.
 
 ## Don't @ Me
