@@ -1,0 +1,375 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\Plugins\\CustomLaunch\\LaunchPlatformPlugin.csproj": {}
+  },
+  "projects": {
+    "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyControls\\FrostyControls.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyControls\\FrostyControls.csproj",
+        "projectName": "FrostyControls",
+        "projectPath": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyControls\\FrostyControls.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyControls\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostySdk\\FrostySdk.csproj": {
+                "projectPath": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostySdk\\FrostySdk.csproj"
+              }
+            }
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyHash\\FrostyHash.vcxproj": {
+      "restore": {
+        "projectUniqueName": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyHash\\FrostyHash.vcxproj",
+        "projectName": "FrostyHash",
+        "projectPath": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyHash\\FrostyHash.vcxproj",
+        "frameworks": {
+          "native": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "native": {}
+      }
+    },
+    "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyModSupport\\FrostyModSupport.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyModSupport\\FrostyModSupport.csproj",
+        "projectName": "FrostyModSupport",
+        "projectPath": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyModSupport\\FrostyModSupport.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyModSupport\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyControls\\FrostyControls.csproj": {
+                "projectPath": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyControls\\FrostyControls.csproj"
+              },
+              "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyHash\\FrostyHash.vcxproj": {
+                "projectPath": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyHash\\FrostyHash.vcxproj"
+              },
+              "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyPlugin\\FrostyCore.csproj": {
+                "projectPath": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyPlugin\\FrostyCore.csproj"
+              },
+              "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostySdk\\FrostySdk.csproj": {
+                "projectPath": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostySdk\\FrostySdk.csproj"
+              }
+            }
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyPlugin\\FrostyCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyPlugin\\FrostyCore.csproj",
+        "projectName": "FrostyCore",
+        "projectPath": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyPlugin\\FrostyCore.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyPlugin\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyControls\\FrostyControls.csproj": {
+                "projectPath": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyControls\\FrostyControls.csproj"
+              },
+              "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyHash\\FrostyHash.vcxproj": {
+                "projectPath": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyHash\\FrostyHash.vcxproj"
+              },
+              "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostySdk\\FrostySdk.csproj": {
+                "projectPath": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostySdk\\FrostySdk.csproj"
+              }
+            }
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostySdk\\FrostySdk.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostySdk\\FrostySdk.csproj",
+        "projectName": "FrostySdk",
+        "projectPath": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostySdk\\FrostySdk.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostySdk\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyHash\\FrostyHash.vcxproj": {
+                "projectPath": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyHash\\FrostyHash.vcxproj"
+              }
+            }
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\Plugins\\CustomLaunch\\LaunchPlatformPlugin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\Plugins\\CustomLaunch\\LaunchPlatformPlugin.csproj",
+        "projectName": "LaunchPlatformPlugin",
+        "projectPath": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\Plugins\\CustomLaunch\\LaunchPlatformPlugin.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\Plugins\\CustomLaunch\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyControls\\FrostyControls.csproj": {
+                "projectPath": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyControls\\FrostyControls.csproj"
+              },
+              "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyHash\\FrostyHash.vcxproj": {
+                "projectPath": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyHash\\FrostyHash.vcxproj"
+              },
+              "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyModSupport\\FrostyModSupport.csproj": {
+                "projectPath": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyModSupport\\FrostyModSupport.csproj"
+              },
+              "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyPlugin\\FrostyCore.csproj": {
+                "projectPath": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostyPlugin\\FrostyCore.csproj"
+              },
+              "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostySdk\\FrostySdk.csproj": {
+                "projectPath": "Z:\\_Omega\\Documents\\Profession\\Software Development\\FrostyToolsuite-1.0.6.2\\FrostySdk\\FrostySdk.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

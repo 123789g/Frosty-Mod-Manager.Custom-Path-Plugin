@@ -1,0 +1,24 @@
+Z:\_Omega\Documents\Profession\Software Development\FrostyToolsuite-1.0.6.2\Plugins\CustomLaunch\obj\x64\Developer - Debug\LaunchPlatformPlugin.csproj.AssemblyReference.cache
+Z:\_Omega\Documents\Profession\Software Development\FrostyToolsuite-1.0.6.2\Plugins\CustomLaunch\obj\x64\Developer - Debug\LaunchPlatformPlugin_MarkupCompile.cache
+Z:\_Omega\Documents\Profession\Software Development\FrostyToolsuite-1.0.6.2\Plugins\CustomLaunch\obj\x64\Developer - Debug\LaunchPlatformPlugin_MarkupCompile.lref
+Z:\_Omega\Documents\Profession\Software Development\FrostyToolsuite-1.0.6.2\Plugins\CustomLaunch\bin\Developer\Debug\ThirdParty\CryptBase.dll
+Z:\_Omega\Documents\Profession\Software Development\FrostyToolsuite-1.0.6.2\Plugins\CustomLaunch\bin\Developer\Debug\ThirdParty\fifaconfig.exe
+Z:\_Omega\Documents\Profession\Software Development\FrostyToolsuite-1.0.6.2\Plugins\CustomLaunch\bin\Developer\Debug\ThirdParty\liblz4.so.1.8.0.dll
+Z:\_Omega\Documents\Profession\Software Development\FrostyToolsuite-1.0.6.2\Plugins\CustomLaunch\bin\Developer\Debug\ThirdParty\libzstd.0.0.6.dll
+Z:\_Omega\Documents\Profession\Software Development\FrostyToolsuite-1.0.6.2\Plugins\CustomLaunch\bin\Developer\Debug\ThirdParty\libzstd.1.1.5.dll
+Z:\_Omega\Documents\Profession\Software Development\FrostyToolsuite-1.0.6.2\Plugins\CustomLaunch\bin\Developer\Debug\ThirdParty\libzstd.1.2.0.dll
+Z:\_Omega\Documents\Profession\Software Development\FrostyToolsuite-1.0.6.2\Plugins\CustomLaunch\bin\Developer\Debug\ThirdParty\libzstd.1.3.4.dll
+Z:\_Omega\Documents\Profession\Software Development\FrostyToolsuite-1.0.6.2\Plugins\CustomLaunch\bin\Developer\Debug\ThirdParty\zlibwapi.dll
+Z:\_Omega\Documents\Profession\Software Development\FrostyToolsuite-1.0.6.2\Plugins\CustomLaunch\bin\Developer\Debug\LaunchPlatformPlugin.dll
+Z:\_Omega\Documents\Profession\Software Development\FrostyToolsuite-1.0.6.2\Plugins\CustomLaunch\bin\Developer\Debug\LaunchPlatformPlugin.pdb
+Z:\_Omega\Documents\Profession\Software Development\FrostyToolsuite-1.0.6.2\Plugins\CustomLaunch\bin\Developer\Debug\FrostyModSupport.dll
+Z:\_Omega\Documents\Profession\Software Development\FrostyToolsuite-1.0.6.2\Plugins\CustomLaunch\bin\Developer\Debug\FrostyModSupport.pdb
+Z:\_Omega\Documents\Profession\Software Development\FrostyToolsuite-1.0.6.2\Plugins\CustomLaunch\obj\x64\Developer - Debug\Themes\Generic.baml
+Z:\_Omega\Documents\Profession\Software Development\FrostyToolsuite-1.0.6.2\Plugins\CustomLaunch\obj\x64\Developer - Debug\LaunchPlatformPlugin.g.resources
+Z:\_Omega\Documents\Profession\Software Development\FrostyToolsuite-1.0.6.2\Plugins\CustomLaunch\obj\x64\Developer - Debug\LaunchPlatformPlugin.GeneratedMSBuildEditorConfig.editorconfig
+Z:\_Omega\Documents\Profession\Software Development\FrostyToolsuite-1.0.6.2\Plugins\CustomLaunch\obj\x64\Developer - Debug\LaunchPlatformPlugin.AssemblyInfoInputs.cache
+Z:\_Omega\Documents\Profession\Software Development\FrostyToolsuite-1.0.6.2\Plugins\CustomLaunch\obj\x64\Developer - Debug\LaunchPlatformPlugin.AssemblyInfo.cs
+Z:\_Omega\Documents\Profession\Software Development\FrostyToolsuite-1.0.6.2\Plugins\CustomLaunch\obj\x64\Developer - Debug\LaunchPlatformPlugin.csproj.CoreCompileInputs.cache
+Z:\_Omega\Documents\Profession\Software Development\FrostyToolsuite-1.0.6.2\Plugins\CustomLaunch\obj\x64\Developer - Debug\LaunchPl.E800D252.Up2Date
+Z:\_Omega\Documents\Profession\Software Development\FrostyToolsuite-1.0.6.2\Plugins\CustomLaunch\obj\x64\Developer - Debug\LaunchPlatformPlugin.dll
+Z:\_Omega\Documents\Profession\Software Development\FrostyToolsuite-1.0.6.2\Plugins\CustomLaunch\obj\x64\Developer - Debug\LaunchPlatformPlugin.pdb
