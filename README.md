@@ -13,4 +13,4 @@ Just download the WHOLE Frosty [Toolsuite](https://github.com/CadeEvs/FrostyTool
 When building, do so by right-clicking my plugin and clicking build. Do not build the whole project. Do not RE-BUILD. Both options have done horrible, terrible things to me.
 
 ## Don't @ Me
-Don't Pull Request Me. Found a way to make it better? Good for you. Found a way to path it without the exact path? Good for you. Found a way to remove these dependancies? Good for you. I'm not gonna troubleshoot or teach you how to build. I'm sorry bro I just wanna play the game with mods this was absurd and took way too long I'm sticking with React never doing C# again in my life.
+Don't Pull Request Me. Found a way to make it better? Good for you. Found a way to path it without the exact path? Good for you. Found a way to remove these dependancies? Good for you. I'm not gonna troubleshoot or teach you how to build. I'm sorry bro I just wanna play the game with mods this was absurd and took way too long I'm sticking with React never doing anything having to do with Visual Studio again in my life idc how much you pay me.
