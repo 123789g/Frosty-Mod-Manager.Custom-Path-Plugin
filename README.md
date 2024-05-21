@@ -4,6 +4,8 @@ Sorry for the GPT Comments I was having a ROUGH time. Can't be bothered to clean
 
 ## AdditionalExecutablePath
 Change the path in quotes to whatever path your game exe is located.
+
+## Usage
 Try to launch the game with the Custom Path turned OFF **BEFORE** you run it with Custom Path turned ON. This is especially important when you change your mods because the mod *apply* stage doesn't work with the Custom Path. Just the Launch part.
 
 ## Build
